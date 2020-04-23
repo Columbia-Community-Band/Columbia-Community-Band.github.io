@@ -28,8 +28,8 @@ h2 {
 }
 
 .director-image {
+	width: 180px;
 	border-radius: 50%;
-    margin-top: 100px;
 }
 
 .director {
@@ -37,7 +37,7 @@ h2 {
 }
 
 .pcc {
-	margin-top: 130px;
+	margin-top: 45px;
 }
 
 @media all and (max-width: 767px) {
